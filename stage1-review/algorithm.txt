@@ -1,0 +1,15 @@
+step 1 - 1. filter only java files 
+         expected result - x.java
+
+step 2 - 1. create folder of same name as java file 
+expected result - x
+
+step 3 - 1. create subfolder of same name as extention name 
+expected result - x/java
+
+step 4 - 1. cut a java file and paste into subfolder
+expected result - x/java/x.java
+
+ step 5 - similarly done with py & js files
+expected result - y/py/y.py
+                  z/js/z.js
